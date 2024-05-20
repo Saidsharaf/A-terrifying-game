@@ -2,7 +2,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ZeadShalaby/A-terrifying-game">
-          <img src="https://imgur.com/sKN0upl.png?w=1600" alt="Logo" width="420" height="270">
+          <img src="https://imgur.com/sKN0upl.png?w=1600" alt="Logo" width="450" height="270">
     
   </a>
 
