@@ -26,39 +26,39 @@
 
 
 
-📌First Page:
+📌Game Over :
 
-<img src="https://imgur.com/e45SK8Q.png" alt="project(Coise-User)" width="1350" height="570">
-
-
-
-📌Home Page:
-
-<img src="https://imgur.com/w8OoqA8.png" alt="project(Coise-User)" width="1200" height="550">
+<img src="https://imgur.com/uJnJJGW.png" alt="project(Coise-User)" width="1350" height="570">
 
 
 
-📌Indexer Page:
+📌Hero :
 
-
-<img src="https://imgur.com/Z5IvRam.png" alt="project(Coise-User)" width="1200" height="550">
-
-
-
-
-📌Searcher Page: 
+<img src="https://imgur.com/gju8quE.png" alt="project(Coise-User)" width="1200" height="550">
 
 
 
-<img src="https://imgur.com/ANljlSu.png" alt="project(Coise-User)" width="1200" height="550">
+📌Goast :
+
+
+<img src="https://imgur.com/klv4A8l.png" alt="project(Coise-User)" width="1200" height="550">
 
 
 
-📌Option Page: 
+
+📌Maze : 
 
 
 
-<img src="https://imgur.com/KmgF2RJ.png" alt="project(Coise-User)" width="1200" height="550">
+<img src="https://imgur.com/sCV19HA.png" alt="project(Coise-User)" width="1200" height="550">
+
+
+
+📌Maze tools : 
+
+
+
+<img src="https://imgur.com/kGa9wQp.png" alt="project(Coise-User)" width="1200" height="550">
 
 
 
