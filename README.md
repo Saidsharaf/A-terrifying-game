@@ -28,25 +28,26 @@
 
 📌Game Over :
 
-<img src="https://imgur.com/uJnJJGW.png" alt="project(Coise-User)" width="1350" height="470">
+<img src="https://imgur.com/uJnJJGW.png" alt="project(Coise-User)" width="1350" height="450">
 
 
 
 📌Hero :
 
-<img src="https://imgur.com/gju8quE.png" alt="project(Coise-User)" width="1200" height="470">
+<img src="https://imgur.com/gju8quE.png" alt="project(Coise-User)" width="1200" height="450">
 
 
 
 📌Monster :
 
 
-<img src="https://imgur.com/klv4A8l.png" alt="project(Coise-User)" width="1200" height="470">
+<img src="https://imgur.com/klv4A8l.png" alt="project(Coise-User)" width="1200" height="450">
+
 
 📌Goast :
 
 
-<img src="https://imgur.com/yvD7qHt.png" alt="project(Coise-User)" width="1200" height="470">
+<img src="https://imgur.com/yvD7qHt.png" alt="project(Coise-User)" width="1200" height="450">
 
 
 
@@ -62,7 +63,7 @@
 
 
 
-<img src="https://imgur.com/kGa9wQp.png" alt="project(Coise-User)" width="1200" height="470">
+<img src="https://imgur.com/kGa9wQp.png" alt="project(Coise-User)" width="1200" height="450">
 
 
 <br>
