@@ -10,7 +10,7 @@
 <h3 align="center"> it's a game coded in c# , done on unity . </h3>
 
   <p align="center">
-     Project Information-Retrieval
+     Project Game Development
     <br/>
     <br/>
   </p>
