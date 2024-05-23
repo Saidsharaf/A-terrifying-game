@@ -100,8 +100,8 @@ Any contributions you make are **greatly appreciated**.
 
 
 ## Authors
-* **Ziad Shalaby** - *Computer Science Student* - [Ziad Shalaby](https://github.com/ZeadShalaby)
 * **Said Sharaf** - *Computer Science Student* - [Said Sharaf](https://github.com/Saidsharaf)
+* **Ziad Shalaby** - *Computer Science Student* - [Ziad Shalaby](https://github.com/ZeadShalaby)
 * **Ziad Ezzat** - *Computer Science Student* - [Ziad Ezzat](https://github.com/ziad-ezzat)
 * **Salma Hamdy** - *Computer Science Student* - [Salma Hamdy](https://github.com/salmaserag)
 * **Rowyda Ehab** - *Computer Science Student* - [Rowyda Ehab](https://github.com/RowydaEhab8)
